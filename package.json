@@ -1,0 +1,12 @@
+{
+    "name": "asijsclient",
+    "private": "true",
+    "scripts": {
+        "start": "node AsiJsClient.js"
+    },
+    "dependencies": {
+        "fetch": "^1.1.0",
+        "node": "^14.13.1",
+        "node-fetch": "^2.6.1"
+    }
+}
